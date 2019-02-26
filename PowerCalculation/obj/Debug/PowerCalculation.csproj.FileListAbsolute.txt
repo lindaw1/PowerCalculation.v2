@@ -1,0 +1,30 @@
+C:\Users\751418\source\repos\PowerCalculation\PowerCalculation\bin\Debug\PowerCalculation.exe.config
+C:\Users\751418\source\repos\PowerCalculation\PowerCalculation\bin\Debug\PowerCalculation.exe
+C:\Users\751418\source\repos\PowerCalculation\PowerCalculation\bin\Debug\PowerCalculation.pdb
+C:\Users\751418\source\repos\PowerCalculation\PowerCalculation\obj\Debug\PowerCalculation.csprojAssemblyReference.cache
+C:\Users\751418\source\repos\PowerCalculation\PowerCalculation\obj\Debug\PowerCalculation.Form1.resources
+C:\Users\751418\source\repos\PowerCalculation\PowerCalculation\obj\Debug\PowerCalculation.Properties.Resources.resources
+C:\Users\751418\source\repos\PowerCalculation\PowerCalculation\obj\Debug\PowerCalculation.csproj.GenerateResource.cache
+C:\Users\751418\source\repos\PowerCalculation\PowerCalculation\obj\Debug\PowerCalculation.csproj.CoreCompileInputs.cache
+C:\Users\751418\source\repos\PowerCalculation\PowerCalculation\obj\Debug\PowerCalculation.exe
+C:\Users\751418\source\repos\PowerCalculation\PowerCalculation\obj\Debug\PowerCalculation.pdb
+C:\Users\751418\source\repos\PowerCalculation - Copy (2)\PowerCalculation\bin\Debug\PowerCalculation.exe.config
+C:\Users\751418\source\repos\PowerCalculation - Copy (2)\PowerCalculation\bin\Debug\PowerCalculation.exe
+C:\Users\751418\source\repos\PowerCalculation - Copy (2)\PowerCalculation\bin\Debug\PowerCalculation.pdb
+C:\Users\751418\source\repos\PowerCalculation - Copy (2)\PowerCalculation\obj\Debug\PowerCalculation.csprojAssemblyReference.cache
+C:\Users\751418\source\repos\PowerCalculation - Copy (2)\PowerCalculation\obj\Debug\PowerCalculation.Form1.resources
+C:\Users\751418\source\repos\PowerCalculation - Copy (2)\PowerCalculation\obj\Debug\PowerCalculation.Properties.Resources.resources
+C:\Users\751418\source\repos\PowerCalculation - Copy (2)\PowerCalculation\obj\Debug\PowerCalculation.csproj.GenerateResource.cache
+C:\Users\751418\source\repos\PowerCalculation - Copy (2)\PowerCalculation\obj\Debug\PowerCalculation.csproj.CoreCompileInputs.cache
+C:\Users\751418\source\repos\PowerCalculation - Copy (2)\PowerCalculation\obj\Debug\PowerCalculation.exe
+C:\Users\751418\source\repos\PowerCalculation - Copy (2)\PowerCalculation\obj\Debug\PowerCalculation.pdb
+C:\Users\751418\source\repos\PowerCalculation.v2\PowerCalculation\bin\Debug\PowerCalculation.exe.config
+C:\Users\751418\source\repos\PowerCalculation.v2\PowerCalculation\bin\Debug\PowerCalculation.exe
+C:\Users\751418\source\repos\PowerCalculation.v2\PowerCalculation\bin\Debug\PowerCalculation.pdb
+C:\Users\751418\source\repos\PowerCalculation.v2\PowerCalculation\obj\Debug\PowerCalculation.csprojAssemblyReference.cache
+C:\Users\751418\source\repos\PowerCalculation.v2\PowerCalculation\obj\Debug\PowerCalculation.Properties.Resources.resources
+C:\Users\751418\source\repos\PowerCalculation.v2\PowerCalculation\obj\Debug\PowerCalculation.csproj.GenerateResource.cache
+C:\Users\751418\source\repos\PowerCalculation.v2\PowerCalculation\obj\Debug\PowerCalculation.csproj.CoreCompileInputs.cache
+C:\Users\751418\source\repos\PowerCalculation.v2\PowerCalculation\obj\Debug\PowerCalculation.exe
+C:\Users\751418\source\repos\PowerCalculation.v2\PowerCalculation\obj\Debug\PowerCalculation.pdb
+C:\Users\751418\source\repos\PowerCalculation.v2\PowerCalculation\obj\Debug\PowerCalculation.frmLindaPowCal.resources
